@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5df7d988.chunk.css",
+    "main.js": "/static/js/main.0b284c70.chunk.js",
+    "main.js.map": "/static/js/main.0b284c70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0f1846a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0f1846a9.js.map",
+    "static/js/2.6f1e628a.chunk.js": "/static/js/2.6f1e628a.chunk.js",
+    "static/js/2.6f1e628a.chunk.js.map": "/static/js/2.6f1e628a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.17e1e59fa924a2c1bb05c0a43fe25f20.js": "/precache-manifest.17e1e59fa924a2c1bb05c0a43fe25f20.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5df7d988.chunk.css.map": "/static/css/main.5df7d988.chunk.css.map",
+    "static/js/2.6f1e628a.chunk.js.LICENSE": "/static/js/2.6f1e628a.chunk.js.LICENSE",
+    "static/media/AxeIcon.svg": "/static/media/AxeIcon.c9d4a99d.svg",
+    "static/media/BowIcon.svg": "/static/media/BowIcon.e774f97a.svg",
+    "static/media/DaggerIcon.svg": "/static/media/DaggerIcon.9fa42cf5.svg",
+    "static/media/EmptyArmsIcon.svg": "/static/media/EmptyArmsIcon.1fc77a33.svg",
+    "static/media/EmptyChestIcon.svg": "/static/media/EmptyChestIcon.0d5f7ab1.svg",
+    "static/media/EmptyMetalHelmetIcon.svg": "/static/media/EmptyMetalHelmetIcon.565fc243.svg",
+    "static/media/EmptyShoesIcon.svg": "/static/media/EmptyShoesIcon.89b1707b.svg",
+    "static/media/EmptyShoulderIcon.svg": "/static/media/EmptyShoulderIcon.915becb1.svg",
+    "static/media/EmptySwordIcon.svg": "/static/media/EmptySwordIcon.ad062c20.svg",
+    "static/media/LeatherArm.svg": "/static/media/LeatherArm.6a2ce7e2.svg",
+    "static/media/LeatherHelmet.svg": "/static/media/LeatherHelmet.b8dc0507.svg",
+    "static/media/LeatherShoes.svg": "/static/media/LeatherShoes.fb5383d5.svg",
+    "static/media/LeatherShoulder.svg": "/static/media/LeatherShoulder.b8a22ec1.svg",
+    "static/media/LeatherVest.svg": "/static/media/LeatherVest.95fccc05.svg",
+    "static/media/MetalArmsIcon.svg": "/static/media/MetalArmsIcon.c946d1a6.svg",
+    "static/media/MetalChestIcon.svg": "/static/media/MetalChestIcon.e80254a5.svg",
+    "static/media/MetalHelmetIcon.svg": "/static/media/MetalHelmetIcon.1da46725.svg",
+    "static/media/MetalShoesIcon.svg": "/static/media/MetalShoesIcon.bee49b44.svg",
+    "static/media/MetalShoulderIcon.svg": "/static/media/MetalShoulderIcon.ed0188e5.svg",
+    "static/media/SpearIcon.svg": "/static/media/SpearIcon.eed1d6a9.svg",
+    "static/media/SwordIcon.svg": "/static/media/SwordIcon.4e0ae922.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1846a9.js",
+    "static/js/2.6f1e628a.chunk.js",
+    "static/css/main.5df7d988.chunk.css",
+    "static/js/main.0b284c70.chunk.js"
+  ]
+}
